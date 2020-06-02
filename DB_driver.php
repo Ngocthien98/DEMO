@@ -10,7 +10,7 @@ class DB_driver
         $DbName = "web",
         $user = "root",
         $pass = "";
-// sua de commit
+// sua de commit ..
     // Hàm Kết Nối
     function connect()
     {
